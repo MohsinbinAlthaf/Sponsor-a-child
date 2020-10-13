@@ -3490,6 +3490,7 @@ hr {
 /* line 39, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption h1 {
   font-size: 60px;
+  margin-top: 7rem;
   font-weight: 800;
   margin-bottom: 14px;
   color: #002d5b;
@@ -3501,7 +3502,7 @@ hr {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   /* line 39, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1 {
-    font-size: 60px;
+    font-size: 47px;
     line-height: 1.2;
   }
 }
@@ -8294,4 +8295,18 @@ html {
   font-size: 30px;
   color: rgb(7, 35, 102) !important;
   font-weight: bold;
+}
+
+.logo-area > img{
+  width: 64vh;
+}
+
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  .logo-area > img{
+    width: 64vh;
+    margin-left: 81px;
+  }
+  
 }
