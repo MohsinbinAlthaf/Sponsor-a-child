@@ -8297,6 +8297,12 @@ html {
   font-weight: bold;
 }
 
+.brand-footer{
+  font-size: 30px;
+  color: white !important;
+  font-weight: bold;
+}
+
 .logo-area > img{
   width: 64vh;
 }
@@ -8309,4 +8315,5 @@ html {
     margin-left: 81px;
   }
   
+
 }
