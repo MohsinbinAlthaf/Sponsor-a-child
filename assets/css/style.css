@@ -2723,14 +2723,12 @@ hr {
 
 /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .section-padding30 {
-  padding-top: 195px;
   padding-bottom: 180px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 150px;
     padding-bottom: 140px;
   }
 }
@@ -2738,7 +2736,6 @@ hr {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 100px;
     padding-bottom: 70px;
   }
 }
@@ -2746,7 +2743,6 @@ hr {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 65px;
     padding-bottom: 70px;
   }
 }
@@ -2754,7 +2750,6 @@ hr {
 @media (max-width: 575px) {
   /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 65px;
     padding-bottom: 70px;
   }
 }
