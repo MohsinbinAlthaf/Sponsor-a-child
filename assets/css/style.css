@@ -8321,3 +8321,10 @@ html {
   font-weight: bolder !important;
   font-size: 20px !important;
 }
+
+@media (min-width: 1281px) {
+  
+  .navbar-height{
+    height: 110px;
+  }
+}
