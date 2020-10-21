@@ -2902,7 +2902,7 @@ hr {
   /* line 913, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-tittle {
     margin-bottom: 50px;
-    text-align: left !important;
+    text-align: center !important;
   }
 }
 
@@ -2927,9 +2927,9 @@ hr {
 @media (max-width: 575px) {
   /* line 921, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-tittle span {
-    font-size: 14px;
+    font-size: 25px;
     padding-left: 0px;
-    text-align: left;
+    text-align: center;
   }
 }
 
@@ -2960,7 +2960,7 @@ hr {
 @media (max-width: 575px) {
   /* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-tittle h2 {
-    text-align: left;
+    text-align: center;
     font-size: 27px;
   }
 }
@@ -3652,7 +3652,7 @@ hr {
 
 /* line 5, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_about.scss */
 .about-low-area .about-caption p {
-  font-size: 16px;
+  font-size: 18px;
   color: #64676c;
   line-height: 1.6;
   margin-bottom: 43px;
@@ -8299,7 +8299,7 @@ html {
 }
 
 .logo-area > img{
-  width: 64vh;
+  width: 100%;
 }
 
 
@@ -8311,4 +8311,13 @@ html {
   }
   
 
+}
+
+.align-center{
+  text-align: center !important;
+}
+
+.donate-details{
+  font-weight: bolder !important;
+  font-size: 20px !important;
 }
